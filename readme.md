@@ -3,11 +3,12 @@
 <h1 align="center">Hi 👋, I'm Jesus Piscoya 🧑‍💻</h1>
 <h3 align="center">A passionate Web/Movil developer from Perú.</h3>
 
-![ProfileViews](https://komarev.com/ghpvc/?username=jesuspiscoya&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
+<br>
 
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/840b0PX.gif">
+<img align="right" alt="Coding" width="350" src="https://i.imgur.com/840b0PX.gif">
 
-<p align="left"> <a href="https://twitter.com/jesuspiscoyadev" target="_blank"><img src="https://img.shields.io/twitter/follow/jesuspiscoyadev?logo=twitter&style=for-the-badge" alt="jesuspiscoyadev" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=jesuspiscoya&label=PROFILE+VIEWS&color=blue&style=for-the-badge">
+<a href="https://jesuspiscoya.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO%20WEB-VISIT-blue?style=for-the-badge&logo=read.cv"></a>
 
 - 🔭 I’m currently working on **my web portfolio.**
 
