@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/840b0PX.gif">
 
-<p align="left"> <a href="https://twitter.com/jesuspiscoyadev" target="blank"><img src="https://img.shields.io/twitter/follow/jesuspiscoyadev?logo=twitter&style=for-the-badge" alt="jesuspiscoyadev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jesuspiscoyadev" target="_blank"><img src="https://img.shields.io/twitter/follow/jesuspiscoyadev?logo=twitter&style=for-the-badge" alt="jesuspiscoyadev" /></a> </p>
 
 - 🔭 I’m currently working on **my web portfolio.**
 
@@ -21,10 +21,10 @@
 
 ### Connect with me🙋‍♂️
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuspiscoya/)
-<a href="https://www.facebook.com/jesuspiscoya.dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="49"></a>
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JesusPiscoyaDev)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jesus.piscoya)
+<a href="https://www.linkedin.com/in/jesuspiscoya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"></a>
+<a href="https://www.facebook.com/jesuspiscoya.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="48"></a>
+<a href="https://twitter.com/JesusPiscoyaDev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
+<a href="https://instagram.com/jesus.piscoya" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instgram"></a>
 
 ### Technologies and tools📍
 
@@ -34,10 +34,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jesuspiscoya&show_icons=true&rank_icon=github&title_color=00aaff&bg_color=0,000000,130F40" alt="jesuspiscoya" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
+  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuspiscoya&show_icons=true&layout=compact&bg_color=0,000000,130F40" alt="jesuspiscoya" />
 </div>
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuspiscoya&show_icons=true&layout=compact&bg_color=0,000000,130F40" alt="jesuspiscoya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
 </div>
 
 <br>
