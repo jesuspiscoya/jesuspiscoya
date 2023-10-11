@@ -1,14 +1,16 @@
-[![BannerHead](https://i.postimg.cc/NMyCcQJp/Web-Coding.gif)]()
+[![BannerHead](https://i.postimg.cc/NMyCcQJp/Web-Coding.gif)](https://jesuspiscoya.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Jesus Piscoya 🧑‍💻</h1>
 <h3 align="center">A passionate Web/Movil developer from Perú.</h3>
 
-<br>
+<div align="center">
 
-<img align="right" alt="Coding" width="350" src="https://i.imgur.com/840b0PX.gif">
+  [![Profile Views](https://komarev.com/ghpvc/?username=jesuspiscoya&label=PROFILE+VIEWS&color=blue&style=for-the-badge)]()
+  [![Potfolio Web](https://img.shields.io/badge/PORTFOLIO%20WEB-VISIT-blue?style=for-the-badge&logo=read.cv)](https://jesuspiscoya.netlify.app)
+  
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=jesuspiscoya&label=PROFILE+VIEWS&color=blue&style=for-the-badge">
-<a href="https://jesuspiscoya.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO%20WEB-VISIT-blue?style=for-the-badge&logo=read.cv"></a>
+<img align="right" height="475" alt="Coding" src="https://i.imgur.com/840b0PX.gif">
 
 - 🔭 I’m currently working on **my web portfolio.**
 
@@ -20,29 +22,50 @@
 
 - ⚡ Fun fact **I think I am funny and fun.**
 
-### Connect with me🙋‍♂️
+### 🙋‍♂️Connect with me
 
-<a href="https://www.linkedin.com/in/jesuspiscoya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"></a>
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesuspiscoya)
 <a href="https://www.facebook.com/jesuspiscoya.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="48"></a>
-<a href="https://twitter.com/JesusPiscoyaDev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
-<a href="https://instagram.com/jesus.piscoya" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instgram"></a>
+[![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JesusPiscoyaDev)
+[![My Instgram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jesus.piscoya)
 
-### Technologies and tools📍
+### 📍Technologies and tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,bootstrap,vite,babel,androidstudio,flutter,dart,java,kotlin,sqlite,firebase,php,jquery,mysql,vscode,postman,sketchup)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=react)]()
+[![My Skill](https://skillicons.dev/icons?i=nodejs)]()
+[![My Skill](https://skillicons.dev/icons?i=html)]()
+[![My Skill](https://skillicons.dev/icons?i=css)]()
+[![My Skill](https://skillicons.dev/icons?i=javascript)]()
+[![My Skill](https://skillicons.dev/icons?i=bootstrap)]()
+[![My Skill](https://skillicons.dev/icons?i=vite)]()
+[![My Skill](https://skillicons.dev/icons?i=androidstudio)]()
+[![My Skill](https://skillicons.dev/icons?i=flutter)]()
+[![My Skill](https://skillicons.dev/icons?i=dart)]()
+[![My Skill](https://skillicons.dev/icons?i=java)]()
+[![My Skill](https://skillicons.dev/icons?i=kotlin)]()
+[![My Skill](https://skillicons.dev/icons?i=sqlite)]()
+[![My Skill](https://skillicons.dev/icons?i=firebase)]()
+[![My Skill](https://skillicons.dev/icons?i=php)]()
+[![My Skill](https://skillicons.dev/icons?i=jquery)]()
+[![My Skill](https://skillicons.dev/icons?i=mysql)]()
+[![My Skill](https://skillicons.dev/icons?i=vscode)]()
+[![My Skill](https://skillicons.dev/icons?i=postman)]()
+[![My Skill](https://skillicons.dev/icons?i=sketchup)]()
 
-### Github Stats📊
+## 🏆Github Profile Trophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesuspiscoya&show_icons=true&rank_icon=github&title_color=00aaff&bg_color=0,000000,130F40" alt="jesuspiscoya" />
-  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuspiscoya&show_icons=true&layout=compact&bg_color=0,000000,130F40" alt="jesuspiscoya" />
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=jesuspiscoya&theme=algolia)](https://github.com/jesuspiscoya/github-profile-trophy)
+
+## 📊Github Stats
+
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesuspiscoya&show_icons=true&layout=pie&&langs_count=8&bg_color=0,000000,130F40" alt="jesuspiscoya" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jesuspiscoya&show_icons=true&rank_icon=github&title_color=00aaff&bg_color=0,000000,130F40" alt="jesuspiscoya" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
+  </div>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
-</div>
-
-<br>
-<br>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -53,8 +76,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
