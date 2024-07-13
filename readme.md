@@ -10,7 +10,7 @@
   
 </div>
 
-<img align="right" height="475" alt="Coding" src="https://i.imgur.com/840b0PX.gif">
+<img align="right" height="345" alt="Coding" src="https://i.imgur.com/840b0PX.gif">
 
 - 🔭 I’m currently working on **Google Cloud Platform.**
 
