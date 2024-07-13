@@ -12,9 +12,9 @@
 
 <img align="right" height="475" alt="Coding" src="https://i.imgur.com/840b0PX.gif">
 
-- 🔭 I’m currently working on **my web portfolio.**
+- 🔭 I’m currently working on **Google Cloud Platform.**
 
-- 🌱 I’m currently learning **React Js and Flutter.**
+- 🌱 I’m currently learning **Python and C#.**
 
 - 💬 Ask me about **Mobile App and Web App.**
 
@@ -31,8 +31,14 @@
 
 ### 📍Technologies and tools
 
+[![My Skill](https://skillicons.dev/icons?i=gcp)]()
+[![My Skill](https://skillicons.dev/icons?i=py)]()
+[![My Skill](https://skillicons.dev/icons?i=cs)]()
+[![My Skill](https://skillicons.dev/icons?i=dotnet)]()
+[![My Skill](https://skillicons.dev/icons?i=docker)]()
 [![My Skill](https://skillicons.dev/icons?i=react)]()
 [![My Skill](https://skillicons.dev/icons?i=nodejs)]()
+[![My Skill](https://skillicons.dev/icons?i=php)]()
 [![My Skill](https://skillicons.dev/icons?i=html)]()
 [![My Skill](https://skillicons.dev/icons?i=css)]()
 [![My Skill](https://skillicons.dev/icons?i=javascript)]()
@@ -49,7 +55,10 @@
 [![My Skill](https://skillicons.dev/icons?i=jquery)]()
 [![My Skill](https://skillicons.dev/icons?i=mysql)]()
 [![My Skill](https://skillicons.dev/icons?i=vscode)]()
+[![My Skill](https://skillicons.dev/icons?i=visualstudio)]()
 [![My Skill](https://skillicons.dev/icons?i=postman)]()
+[![My Skill](https://skillicons.dev/icons?i=github)]()
+[![My Skill](https://skillicons.dev/icons?i=bitbucket)]()
 [![My Skill](https://skillicons.dev/icons?i=sketchup)]()
 
 ## 🏆Github Profile Trophy
