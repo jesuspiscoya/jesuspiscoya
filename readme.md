@@ -7,18 +7,18 @@
 
   [![Profile Views](https://komarev.com/ghpvc/?username=jesuspiscoya&label=PROFILE+VIEWS&color=blue&style=for-the-badge)]()
   [![Potfolio Web](https://img.shields.io/badge/PORTFOLIO%20WEB-VISIT-blue?style=for-the-badge&logo=read.cv)](https://jesuspiscoya.netlify.app)
-  
+
 </div>
 
 <img align="right" height="325" alt="Coding" src="https://i.imgur.com/840b0PX.gif">
 
-- 🔭 I’m currently working on **Google Cloud Platform.**
+- 🔭 I’m currently working on **Automation and Data Analysis.**
 
-- 🌱 I’m currently learning **Python and C#.**
+- 🌱 I’m currently learning **Python and Power BI.**
 
-- 💬 Ask me about **Mobile App and Web App.**
+- 💬 Ask me about **Mobile Development and Web Development.**
 
-- 📫 How to reach me **jesuspiscoya0351@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jesuspiscoya/)**
 
 - ⚡ Fun fact **I think I am funny and fun.**
 
@@ -31,35 +31,49 @@
 
 ### 📍Technologies and tools
 
-[![My Skill](https://skillicons.dev/icons?i=gcp)]()
-[![My Skill](https://skillicons.dev/icons?i=py)]()
-[![My Skill](https://skillicons.dev/icons?i=cs)]()
-[![My Skill](https://skillicons.dev/icons?i=dotnet)]()
-[![My Skill](https://skillicons.dev/icons?i=docker)]()
-[![My Skill](https://skillicons.dev/icons?i=react)]()
-[![My Skill](https://skillicons.dev/icons?i=nodejs)]()
-[![My Skill](https://skillicons.dev/icons?i=php)]()
-[![My Skill](https://skillicons.dev/icons?i=html)]()
-[![My Skill](https://skillicons.dev/icons?i=css)]()
-[![My Skill](https://skillicons.dev/icons?i=javascript)]()
-[![My Skill](https://skillicons.dev/icons?i=bootstrap)]()
-[![My Skill](https://skillicons.dev/icons?i=vite)]()
-[![My Skill](https://skillicons.dev/icons?i=androidstudio)]()
-[![My Skill](https://skillicons.dev/icons?i=flutter)]()
-[![My Skill](https://skillicons.dev/icons?i=dart)]()
-[![My Skill](https://skillicons.dev/icons?i=java)]()
-[![My Skill](https://skillicons.dev/icons?i=kotlin)]()
-[![My Skill](https://skillicons.dev/icons?i=sqlite)]()
-[![My Skill](https://skillicons.dev/icons?i=firebase)]()
-[![My Skill](https://skillicons.dev/icons?i=php)]()
-[![My Skill](https://skillicons.dev/icons?i=jquery)]()
-[![My Skill](https://skillicons.dev/icons?i=mysql)]()
-[![My Skill](https://skillicons.dev/icons?i=vscode)]()
-[![My Skill](https://skillicons.dev/icons?i=visualstudio)]()
-[![My Skill](https://skillicons.dev/icons?i=postman)]()
-[![My Skill](https://skillicons.dev/icons?i=github)]()
-[![My Skill](https://skillicons.dev/icons?i=bitbucket)]()
-[![My Skill](https://skillicons.dev/icons?i=sketchup)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=py)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=selenium)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=pbi)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=sqlserver)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=mysql)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=postgresql)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=gcp)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=azuredevops)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=cs)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=dotnet)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=docker)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=vscode)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=visualstudio)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=postman)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=netlify)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=flyio)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=nextjs)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=vite)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=react)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=nodejs)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=expressjs)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=api)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=html)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=css)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=javascript)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=bootstrap)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=jquery)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=php)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=androidstudio)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=flutter)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=dart)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=kotlin)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=java)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=sqlite)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=mongodb)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=firebase)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=git)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=github)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=bitbucket)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=jira)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=figma)]()
+[![My Skill](https://go-skill-icons.vercel.app/api/icons?i=sketchup)]()
 
 ## 🏆Github Profile Trophy
 
@@ -72,7 +86,7 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=jesuspiscoya&show_icons=true&rank_icon=github&title_color=00aaff&bg_color=0,000000,130F40" alt="jesuspiscoya" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=jesuspiscoya&theme=transparent&background=0%2C000000%2C130F40" alt="jesuspiscoya" />
   </div>
 </div>
 
@@ -85,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
